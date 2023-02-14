@@ -1,0 +1,5 @@
+*.asv
+images/*
+!images/README.md
+storedData/*
+!storedData/README.md
